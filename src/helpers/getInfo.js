@@ -7,3 +7,5 @@ export const getInfo = (object) => {
         return 'none'
     }
 }
+
+module.exports = getInfo;

@@ -13,6 +13,8 @@ import { Search } from '../../src/components/Search';
 //Start here: https://testing-library.com/docs/example-findByText
 //Look for the line that says: 'describe('findByText Examples', () => {'
 
+// const Search = require('../../src/components/Search');
+
 test('REPLACE_ME', async () => {
     expect("REPLACE_ME").toBe("REPLACE_ME");
 });
